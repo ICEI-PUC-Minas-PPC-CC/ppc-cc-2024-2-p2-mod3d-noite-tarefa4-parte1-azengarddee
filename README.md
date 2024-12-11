@@ -9,11 +9,3 @@
 
 ## Professor
 - Will Machado
-
-# Documentação
-
-
-# Código
-
-
-# Apresentação
